@@ -1,0 +1,4 @@
+Codigo,Dia Venta,Articulos,Descripcion,Precio,Transacción Total,IVA
+341,10/28/2021,['NEUMATICO'],"['RUEDA DE HULE 25""']",['750'],750,120.0
+631,10/28/2021,"['RUEDA DE HULE', 'LIMPIADOR']","['NEUMATICO DELANTERO', '25ML']","['1750', '150']",1900,304.0
+812,10/28/2021,['nuevo articulo'],['a'],['9999'],9999,1599.8400000000001
